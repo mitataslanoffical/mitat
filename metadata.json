@@ -1,0 +1,8 @@
+{
+  "name": "SmilesGo",
+  "description": "Google Sheets entegreli sağlık turizmi transfer ve klinik canlı operasyon takip sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
